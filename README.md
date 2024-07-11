@@ -1,1 +1,1 @@
-# Planning-and-Decision-Making-for-Autonomous-Robots
+This repository contains an agent I wrote for the [dg-commons](https://github.com/idsc-frazzoli/dg-commons) package during the final project of the course "Planning and Decision Making for Autonomous Robots".
